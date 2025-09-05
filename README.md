@@ -1,10 +1,11 @@
-# Noob - Your Terminal Guide for Linux Commands
+Usage open terminal and simply just type:  noob
 
-`Noob` is a simple terminal utility designed to help new Linux users learn basic commands by showing one random command and its explanation every time you run `noob`.
+after install type in terminal:  source ~/.bashrc
+or
+just close and reopen terminal
 
-### Easy Installation
+Example output:
+✨ noob ✨
+code example
 
-To install `noob`, simply run the following command in your terminal:
-
-```bash
-bash -c "$(curl -sSL https://github.com/1nam/noob/raw/main/install.sh)"
+curl -s https://raw.githubusercontent.com/1nam/noob/refs/heads/main/install.sh | bash
