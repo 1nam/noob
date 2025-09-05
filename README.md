@@ -7,4 +7,4 @@
 To install `noob`, simply run the following command in your terminal:
 
 ```bash
-bash -c "$(curl -sSL https://github.com/yourusername/noob/raw/main/install.sh)"
+bash -c "$(curl -sSL https://github.com/1nam/noob/raw/main/install.sh)"
